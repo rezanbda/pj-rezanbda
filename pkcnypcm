@@ -1,0 +1,6 @@
+\name{neyapcam}
+\alias{neyapcam}
+\title{neyapcam}
+\usage{
+neyapcam(text)
+}
